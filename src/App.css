@@ -71,10 +71,10 @@
   padding-left: 20px;
 }
 
-@media (max-width:40em){
+@media (max-width:20em){
   .card {
     width: 90%;
-    height:90%;
+    height:80%;
     line-height: 1.6;
   
   }
